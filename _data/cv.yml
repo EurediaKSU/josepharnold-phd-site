@@ -1,53 +1,47 @@
 cv:
   name: Joseph Arnold
-  label: PhD Student, Information Systems
+  location: Ellijay, Georgia
   email: jarnol92@students.kennesaw.edu
   website: https://josepharnold.phd
-  address:
-    city: Ellijay
-    region: Georgia
-
-  summary: >
-    PhD student in Business Administration (Information Systems) at Kennesaw State University.
-    Research focuses on agentic AI, knowledge hiding, and organizational impacts of emerging technologies.
 
   sections:
     Education:
       - institution: Kennesaw State University
-        area: Business Administration (Information Systems)
-        studyType: PhD
-        startDate: 2024
-        endDate: Present
+        area: Business Administration, Information Systems
+        degree: PhD
+        start_date: 2024
+        end_date: present
 
       - institution: Your MBA Institution
         area: Business Administration
-        studyType: MBA
+        degree: MBA
 
     Experience:
-      - name: Ernst & Young
+      - company: Ernst & Young
         position: Global IT Leader
         highlights:
-          - Led global network and infrastructure initiatives
-          - Managed large-scale enterprise technology implementations
+          - Led global network and infrastructure initiatives.
+          - Managed large-scale enterprise technology implementations.
 
-      - name: Intuit
+      - company: Intuit
         position: Senior Network Engineer
         highlights:
-          - Designed and implemented global network architectures
+          - Designed and implemented global network architectures.
 
-    Publications:
-      - name: AMCIS 2026 Paper (ERF)
-        publisher: Americas Conference on Information Systems
-        releaseDate: 2026
-        summary: Paper presentation in Reno, Nevada
+    Research in Progress:
+      - label: Agentic AI, Job Insecurity, and Knowledge Hiding
+        details: Research examining how agentic AI affects productivity, job insecurity, and knowledge hiding behaviors.
 
-    Academic Interests:
-      - name: Artificial Intelligence in Organizations
-      - name: Knowledge Hiding
-      - name: Agentic AI
-      - name: Cognitive Load Theory
+      - label: Cognitive Load Theory and AI Use
+        details: Research examining how AI use influences cognitive load, learning, and skill development.
+
+      - label: Late-Career PhD Pathways
+        details: Qualitative research on motivations and identity transitions among mid- and late-career doctoral students.
+
+    Conference Presentations:
+      - label: AMCIS 2026
+        details: ERF paper presentation, Reno, Nevada.
 
     Teaching:
-      - name: IS220 — Introduction to Information Systems
-        institution: Kennesaw State University
-        date: Fall 2026
+      - label: IS220 — Introduction to Information Systems
+        details: Kennesaw State University, Fall 2026.

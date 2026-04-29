@@ -15,7 +15,7 @@ related_publications: false
 **Presentation Type:** Paper Presentation  
 **Paper:** ERF paper
 
-AMCIS 2026, hosted by the Association for Information Systems, will be held in Reno, Nevada. The 2026 conference theme is **“The Next Transformation,”** which emphasizes the relationship between technological capability, societal impact, innovation, and responsibility. :contentReference[oaicite:0]{index=0}
+AMCIS 2026, hosted by the Association for Information Systems, will be held in Reno, Nevada. The 2026 conference theme is **“The Next Transformation,”** which emphasizes the relationship between technological capability, societal impact, innovation, and responsibility.
 
 My planned presentation focuses on my ERF paper and aligns with my broader research agenda on information systems, artificial intelligence, and organizational behavior.
 

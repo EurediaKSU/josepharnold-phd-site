@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "Courses and instructional activities.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/josepharnold-phd-site/teaching/";

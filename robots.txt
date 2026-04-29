@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://eurediaksu.github.io/josepharnold-phd-site/sitemap.xml
+Sitemap: https://josepharnold.phd/sitemap.xml

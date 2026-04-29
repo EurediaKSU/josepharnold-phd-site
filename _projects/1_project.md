@@ -2,7 +2,7 @@
 layout: page
 title: AMCIS 2026
 description: ERF paper presentation at AMCIS 2026 in Reno, Nevada.
-img: assets/img/logo.jpg
+img: assets/img/AMCIS-2026-Logo-980x632.png
 importance: 1
 category: conferences
 related_publications: false

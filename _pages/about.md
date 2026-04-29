@@ -6,10 +6,10 @@ subtitle: PhD Student in Information Systems, Kennesaw State University
 
 profile:
   align: right
-  image: assets/img/jarnold.jpg
+  image: jarnold.jpg
   image_circular: false # crops the image to make it circular
   more_info: ""
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false
 social: true # includes social icons at the bottom of the page
 
 announcements:

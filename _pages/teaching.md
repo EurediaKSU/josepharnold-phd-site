@@ -2,14 +2,24 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses and instructional activities.
 nav: true
 nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Current and Upcoming Teaching
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### IS 2200 - Information Systems and Communication
+**Kennesaw State University**  
+**Fall 2026 (Planned)**
 
-{% include courses.liquid %}
+This course will provide an overview of fundamentals of information systems technologies and their applicability to real world scenarios. Topics may vary as technology changes but the students will learn the tools of productivity. The course aims to improve communications skills appropriate to the business setting.
+
+---
+
+## Teaching Interests
+
+- Information Systems and Organizational Technology  
+- Artificial Intelligence in Business  
+- Technology Strategy and Digital Transformation  
+- Data-Driven Decision Making

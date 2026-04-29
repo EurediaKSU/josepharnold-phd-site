@@ -507,25 +507,11 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/josepharnold-phd-site/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/josepharnold-phd-site/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%6A%61%72%6E%6F%6C%39%32@%73%74%75%64%65%6E%74%73.%6B%65%6E%6E%65%73%61%77.%65%64%75", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=", "_blank");
         },
       },{
         id: 'social-linkedin',

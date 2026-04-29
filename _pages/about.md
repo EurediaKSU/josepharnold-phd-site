@@ -6,13 +6,9 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jarnold.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+  more_info: 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -27,8 +23,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Joseph Arnold is a PhD student in Business Administration with a concentration in Information Systems at Kennesaw State University. His research examines the organizational implications of artificial intelligence, with a focus on agentic AI, job insecurity, and knowledge hiding behaviors in knowledge work.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+His work explores how increasingly autonomous AI systems simultaneously enhance productivity while reshaping employee perceptions of job security and influencing knowledge-sharing decisions. Drawing on perspectives from information systems and organizational behavior, his research aims to better understand the unintended behavioral consequences of AI adoption in organizations.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to his doctoral studies, Joseph accumulated over 30 years of experience in the technology industry, including senior roles in global IT and network engineering. His professional background informs his research by grounding theoretical inquiry in real-world organizational contexts, particularly in large-scale, AI-enabled environments.

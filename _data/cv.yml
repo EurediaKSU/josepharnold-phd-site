@@ -22,6 +22,7 @@ cv:
       - company: Ernst & Young
         position: Global IT Leader
         start_date: 2015
+        end_date: present
         highlights:
           - Translated product usage and operational data into actionable insights, driving decisions that improved product performance and adoption
           - Identified revenue leakage and inefficiencies through deep data analysis, contributing to cost optimization and margin improvement

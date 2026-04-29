@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/josepharnold-phd-site/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-conferences",
+          title: "conferences",
+          description: "Conferenece presentations and academic events",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/josepharnold-phd-site/projects/";
+            window.location.href = "/josepharnold-phd-site/conferences/";
           },
         },{id: "nav-teaching",
           title: "teaching",

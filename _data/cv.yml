@@ -12,9 +12,11 @@ cv:
         start_date: 2024
         end_date: present
 
-      - institution: Your MBA Institution
+      - institution: Kennesaw State University
         area: Business Administration
         degree: MBA
+        start_date: 2021
+        end_date: 2023
 
     Experience:
       - company: Ernst & Young
@@ -24,8 +26,10 @@ cv:
           - Translated product usage and operational data into actionable insights, driving decisions that improved product performance and adoption
           - Identified revenue leakage and inefficiencies through deep data analysis, contributing to cost optimization and margin improvement
 
-      - company: Intuit
+      - company: nFront/Digital Insight/Intuit
         position: Senior Network Engineer
+        start_date: 1999
+        end_date: 2015
         highlights:
           - Global network Architect for Office designs, core network infrastructure, and innovation
 

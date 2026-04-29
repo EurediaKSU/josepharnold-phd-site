@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-conferences",
           title: "conferences",
-          description: "Conferenece presentations and academic events",
+          description: "Conference presentations and academic events.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/josepharnold-phd-site/conferences/";

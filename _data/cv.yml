@@ -19,14 +19,15 @@ cv:
     Experience:
       - company: Ernst & Young
         position: Global IT Leader
+        start_date: 2015
         highlights:
-          - Led global network and infrastructure initiatives.
-          - Managed large-scale enterprise technology implementations.
+          - Translated product usage and operational data into actionable insights, driving decisions that improved product performance and adoption
+          - Identified revenue leakage and inefficiencies through deep data analysis, contributing to cost optimization and margin improvement
 
       - company: Intuit
         position: Senior Network Engineer
         highlights:
-          - Designed and implemented global network architectures.
+          - Global network Architect for Office designs, core network infrastructure, and innovation
 
     Research in Progress:
       - label: Agentic AI, Job Insecurity, and Knowledge Hiding

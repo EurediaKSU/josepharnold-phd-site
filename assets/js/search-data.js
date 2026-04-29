@@ -515,10 +515,10 @@ ninja.data = [{
         },
       },{
         id: 'social-linkedin',
-        title: 'Linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://www.linkedin.com/in/joseph-arnold-12345", "_blank");
         },
       },{
       id: 'light-theme',

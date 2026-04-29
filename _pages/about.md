@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: ""
 selected_papers: false
-social: false
+social: true
 
 announcements:
   enabled: false

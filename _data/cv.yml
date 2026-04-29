@@ -12,7 +12,6 @@ cv:
     Research focuses on agentic AI, knowledge hiding, and organizational impacts of emerging technologies.
 
   sections:
-
     Education:
       - institution: Kennesaw State University
         area: Business Administration (Information Systems)
@@ -20,23 +19,19 @@ cv:
         startDate: 2024
         endDate: Present
 
-      - institution: (Your MBA School)
+      - institution: Your MBA Institution
         area: Business Administration
         studyType: MBA
 
     Experience:
       - name: Ernst & Young
         position: Global IT Leader
-        startDate: 
-        endDate: Present
         highlights:
           - Led global network and infrastructure initiatives
           - Managed large-scale enterprise technology implementations
 
       - name: Intuit
         position: Senior Network Engineer
-        startDate:
-        endDate:
         highlights:
           - Designed and implemented global network architectures
 

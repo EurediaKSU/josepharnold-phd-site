@@ -518,7 +518,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/joseph-arnold-12345", "_blank");
+          window.open("https://www.linkedin.com/in/joseph-arnold-mba-66a76b14", "_blank");
         },
       },{
       id: 'light-theme',

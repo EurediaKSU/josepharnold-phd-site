@@ -14,8 +14,8 @@ keywords: "AI, agentic AI, knowledge hiding, information systems, organizational
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎓
 
-url: https://eurediaksu.github.io
-baseurl: /josepharnold-phd-site
+url: https://josepharnold.phd
+baseurl: ""
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button

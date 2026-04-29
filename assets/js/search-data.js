@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/josepharnold-phd-site/projects/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/josepharnold-phd-site/cv/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Courses and instructional activities.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/josepharnold-phd-site/teaching/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/josepharnold-phd-site/cv/";
           },
         },{id: "post-a-post-with-plotly-js",
         

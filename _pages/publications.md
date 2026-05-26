@@ -1,24 +1,20 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: Upcoming Publications
+title: research
+description: Research interests and ongoing scholarly work.
 nav: true
 nav_order: 2
 ---
 
 ## Research Agenda
 
-My research focuses on the intersection of artificial intelligence and organizational behavior, with an emphasis on how emerging technologies reshape work, knowledge sharing, and employee perceptions.
+My research focuses on the organizational and behavioral implications of information technologies. I investigate how emerging digital technologies shape employee experiences, managerial decision-making, and organizational performance.
 
-### 1. Cognitive Load Theory and AI Use
+### Current Areas of Interest
 
-This stream examines how AI systems influence cognitive load in knowledge work, including implications for learning, performance, and skill development.
-
-### 2. Behavioral Implications of Agentic AI
-
-This research investigates how agentic AI impacts productivity, job insecurity, and knowledge hiding behaviors within organizations.
-
-### 3. Late-Career PhD Pathways
-
-This qualitative study explores motivations, identity transitions, and outcomes for individuals pursuing doctoral education in mid to late career stages.
+- Artificial Intelligence in Organizations
+- Information Systems Strategy
+- Technology-Enabled Work Processes
+- Organizational Knowledge and Collaboration
+- Digital Transformation and Innovation

@@ -34,15 +34,21 @@ cv:
         highlights:
           - Global network Architect for Office designs, core network infrastructure, and innovation
 
-    Research in Progress:
-      - label: Agentic AI, Job Insecurity, and Knowledge Hiding
-        details: Research examining how agentic AI affects productivity, job insecurity, and knowledge hiding behaviors.
+Research Interests:
+  - label: Artificial Intelligence in Organizations
+    details: Examining how emerging technologies influence employee behavior, decision-making, and organizational outcomes.
 
-      - label: Cognitive Load Theory and AI Use
-        details: Research examining how AI use influences cognitive load, learning, and skill development.
+  - label: Information Systems Strategy
+    details: Investigating the strategic use of information technologies to support organizational performance and innovation.
 
-      - label: Late-Career PhD Pathways
-        details: Qualitative research on motivations and identity transitions among mid- and late-career doctoral students.
+  - label: Technology-Enabled Work Processes
+    details: Exploring how digital technologies reshape work practices, collaboration, and productivity.
+
+  - label: Organizational Knowledge and Collaboration
+    details: Studying knowledge-related behaviors and mechanisms that support effective information sharing and learning.
+
+  - label: Digital Transformation and Innovation
+    details: Understanding the organizational challenges and opportunities associated with technological change.
 
     Conference Presentations:
       - label: AMCIS 2026
@@ -51,3 +57,10 @@ cv:
     Teaching:
       - label: IS220 — Introduction to Information Systems
         details: Kennesaw State University, Fall 2026.
+
+    Professional Service:
+      - label: Journal Reviewer
+        details: International Journal of Information Management (IJIM), 2026–Present
+
+      - label: Conference Reviewer
+        details: Americas Conference on Information Systems (AMCIS), 2026

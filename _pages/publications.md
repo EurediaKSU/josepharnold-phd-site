@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: research
+title: publications
 description: Research interests and ongoing scholarly work.
 nav: true
 nav_order: 2

@@ -10,6 +10,7 @@ nav_order: 4
 ## Current Teaching
 
 ### Graduate Teaching Assistant
+
 **Kennesaw State University**  
 **Fall 2026–Present**  
 **IS 2200 — Introduction to Information Systems**
@@ -31,6 +32,7 @@ Responsibilities include:
 ## Upcoming Teaching
 
 ### Adjunct Instructor of Computer Science
+
 **Young Harris College**  
 **Incoming appointment — beginning January 2028**
 

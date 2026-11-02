@@ -18,21 +18,21 @@ cv:
         start_date: 2021
         end_date: 2023
 
-    Experience:
-      - company: Ernst & Young
-        position: Global IT Leader
-        start_date: 2015
-        end_date: present
-        highlights:
-          - Translated product usage and operational data into actionable insights, driving decisions that improved product performance and adoption
-          - Identified revenue leakage and inefficiencies through deep data analysis, contributing to cost optimization and margin improvement
+    Teaching:
+      - label: Graduate Teaching Assistant — Kennesaw State University
+        details: >-
+          Fall 2026–Present. IS 2200 — Introduction to Information Systems.
+          Provide individual and small-group tutoring; grade assignments, quizzes, examinations, and projects;
+          and provide constructive feedback. Deliver lectures, lead discussions, and teach when required.
+          Assist with course materials, student support sessions, attendance, and learning management activities.
+          Coordinate with faculty on student progress, academic integrity, and approved accommodations.
 
-      - company: nFront/Digital Insight/Intuit
-        position: Senior Network Engineer
-        start_date: 1999
-        end_date: 2015
-        highlights:
-          - Global Network Architect for office designs, core network infrastructure, and innovation
+      - label: Adjunct Instructor of Computer Science — Young Harris College
+        details: >-
+          Incoming appointment beginning January 2028. Anticipated responsibilities include teaching undergraduate
+          Computer Science courses; preparing syllabi, instructional materials, and applied assignments;
+          developing and grading assessments; and providing timely feedback. Will hold office hours,
+          support student learning, manage course resources and grades, and coordinate with departmental faculty.
 
     Research Interests:
       - label: Artificial Intelligence in Organizations
@@ -50,13 +50,20 @@ cv:
       - label: Digital Transformation and Innovation
         details: Understanding the organizational challenges and opportunities associated with technological change.
 
+    Research in Progress:
+      - label: Agentic AI and Knowledge Hiding
+        details: >-
+          Dissertation research examining how agentic AI shapes employees' perceptions of work and employment,
+          with implications for knowledge hiding in organizations.
+
+      - label: Artificial Intelligence, Cognitive Load, and Skill Development
+        details: >-
+          Conceptual research exploring how AI use influences employee learning and skill development,
+          including the role of cognitive effort in AI-supported work.
+
     Conference Presentations:
       - label: AMCIS 2026
         details: ERF paper presentation, Reno, Nevada.
-
-    Teaching:
-      - label: IS2200 — Introduction to Information Systems
-        details: Kennesaw State University, Fall 2026.
 
     Professional Service:
       - label: Journal Reviewer
@@ -64,3 +71,19 @@ cv:
 
       - label: Conference Reviewer
         details: Americas Conference on Information Systems (AMCIS), 2026
+
+    Experience:
+      - company: Ernst & Young
+        position: Global IT Leader
+        start_date: 2015
+        end_date: present
+        highlights:
+          - Translated product usage and operational data into actionable insights, driving decisions that improved product performance and adoption
+          - Identified revenue leakage and inefficiencies through deep data analysis, contributing to cost optimization and margin improvement
+
+      - company: nFront/Digital Insight/Intuit
+        position: Senior Network Engineer
+        start_date: 1999
+        end_date: 2015
+        highlights:
+          - Global Network Architect for office designs, core network infrastructure, and innovation

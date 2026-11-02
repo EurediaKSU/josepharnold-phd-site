@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Courses and instructional activities.",
+          description: "Teaching appointments and instructional activities at Kennesaw State University and Young Harris College.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
